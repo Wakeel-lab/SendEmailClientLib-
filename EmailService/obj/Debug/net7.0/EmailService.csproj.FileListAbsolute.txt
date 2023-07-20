@@ -1,0 +1,12 @@
+C:\play\EmailService\EmailService\EmailService\bin\Debug\net7.0\EmailService.deps.json
+C:\play\EmailService\EmailService\EmailService\bin\Debug\net7.0\EmailService.dll
+C:\play\EmailService\EmailService\EmailService\bin\Debug\net7.0\EmailService.pdb
+C:\play\EmailService\EmailService\EmailService\obj\Debug\net7.0\EmailService.csproj.AssemblyReference.cache
+C:\play\EmailService\EmailService\EmailService\obj\Debug\net7.0\EmailService.GeneratedMSBuildEditorConfig.editorconfig
+C:\play\EmailService\EmailService\EmailService\obj\Debug\net7.0\EmailService.AssemblyInfoInputs.cache
+C:\play\EmailService\EmailService\EmailService\obj\Debug\net7.0\EmailService.AssemblyInfo.cs
+C:\play\EmailService\EmailService\EmailService\obj\Debug\net7.0\EmailService.csproj.CoreCompileInputs.cache
+C:\play\EmailService\EmailService\EmailService\obj\Debug\net7.0\EmailService.dll
+C:\play\EmailService\EmailService\EmailService\obj\Debug\net7.0\refint\EmailService.dll
+C:\play\EmailService\EmailService\EmailService\obj\Debug\net7.0\EmailService.pdb
+C:\play\EmailService\EmailService\EmailService\obj\Debug\net7.0\ref\EmailService.dll

@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "cmxeOQ2bo7Qp3uxY/qKTkARCjbcQAKkNeZwvcsWg0PnodiJDq6Fpt1Lkn/5QAHFVlp+9ZG2ALHaT+l+Qbc+qVw==",
+  "success": true,
+  "projectFilePath": "C:\\play\\EmailService\\EmailService\\EmailService\\EmailService.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\X1 Yoga\\.nuget\\packages\\microsoft.aspnetcore.http.features\\5.0.17\\microsoft.aspnetcore.http.features.5.0.17.nupkg.sha512",
+    "C:\\Users\\X1 Yoga\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\X1 Yoga\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.1\\microsoft.extensions.primitives.5.0.1.nupkg.sha512",
+    "C:\\Users\\X1 Yoga\\.nuget\\packages\\system.io.pipelines\\5.0.2\\system.io.pipelines.5.0.2.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://104.40.188.31/InternalNugetServer/nuget'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}
